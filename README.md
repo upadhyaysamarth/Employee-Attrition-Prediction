@@ -166,7 +166,7 @@ Employee-Attrition-Prediction/
  
 ▶️ How to Run the Project
 1. Clone the Repository
-git clone https://github.com/RajeevS824/Employee-Attrition-Prediction
+git clone https://github.com/upadhyaysamarth/Employee-Attrition-Prediction.git
 cd Employee-Attrition-Prediction
 2. Install Dependencies
 pip install -r requirements.txt
