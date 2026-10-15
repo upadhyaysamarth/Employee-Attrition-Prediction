@@ -6,7 +6,6 @@ This project focuses on analyzing employee attrition, identifying key factors in
 
 ---
 
-    https://employee-attrition-prediction-ecmujpvixzodrf2nfxrh9v.streamlit.app/
     
 ## 📘 **Project Title**
 
